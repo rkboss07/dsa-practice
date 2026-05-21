@@ -96,4 +96,4 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Leetcode Profile
-[rkboss07](https://leetcode.com/rkboss07)
+[rkboss07]([https://leetcode.com/rkboss07](https://leetcode.com/u/rohitsinghxiv/)
