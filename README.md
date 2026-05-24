@@ -7,9 +7,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 8
-- **Easy:** 6 | **Medium:** 2 | **Hard:** 0
-- **Current Streak:** 2 days
+- **Total Solved:** 14
+- **Easy:** 10 | **Medium:** 4 | **Hard:** 0
+- **Current Streak:** 4 days
 - **Target:** 150 problems by Month 6
 
 ---
@@ -20,6 +20,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 1 | 21 May 2026 | 1929, 1920, 283, 485 | Arrays, Vectors |
 | Day 2 | 22 May 2026 | 26, 121, 238, 167 | Arrays, Two Pointer |
 | Day 3 | 23 May 2026 | 344, 125, 424 | Strings, Sliding Window |
+| Day 4 | 24 May 2026 | 242, 1, 3 | Hashmap, Sliding Window |
 
 ---
 
@@ -51,14 +52,14 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [ ] Minimum Window Substring — 76
 
 ### Sliding Window
-- [ ] Core concept
+- [x] Core concept
 - [ ] Maximum Average Subarray — 643
-- [ ] Longest Substring Without Repeating Characters — 3
+- [x] Longest Substring Without Repeating Characters — 3
 
 ### HashMap
 - [ ] Core concept
-- [ ] Two Sum — 1
-- [ ] Valid Anagram — 242
+- [x] Two Sum — 1
+- [x] Valid Anagram — 242
 - [ ] Group Anagrams — 49
 
 ### Recursion
@@ -81,18 +82,11 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Prefix products — left and right pass
 - [x] Single pass tracking — min, max, running count
 - [x] Sliding Window
-- [ ] HashMap / unordered_map in C++
+- [x] HashMap / unordered_map in C++
 - [ ] Recursion tree
 - [ ] Memoization
 
 ---
-
-## Key Mistakes to Remember
-- Use `nums.size()` not `sizeof()` for vectors
-- Use separate `if` not `else if` when checking both max and min
-- Always pre-allocate vector size before indexing — `vector<int> ans(n)`
-- Think before coding — identify the technique first
-- `else if` after max check means min never updates on same element
 
 ---
 
