@@ -19,6 +19,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 |-----|------|----------|-------|
 | Day 1 | 21 May 2026 | 1929, 1920, 283, 485 | Arrays, Vectors |
 | Day 2 | 22 May 2026 | 26, 121, 238, 167 | Arrays, Two Pointer |
+| Day 3 | 23 May 2026 | 344, 125, 424 | Strings, Sliding Window |
 
 ---
 
@@ -44,9 +45,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [ ] Trapping Rain Water — 42
 
 ### Strings
-- [ ] Reverse String — 344
-- [ ] Valid Palindrome — 125
-- [ ] Longest Repeating Character Replacement — 424
+- [x] Reverse String — 344
+- [x] Valid Palindrome — 125
+- [x] Longest Repeating Character Replacement — 424
 - [ ] Minimum Window Substring — 76
 
 ### Sliding Window
@@ -79,7 +80,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Two Pointer — Flavour 1 (same direction) and Flavour 2 (opposite ends)
 - [x] Prefix products — left and right pass
 - [x] Single pass tracking — min, max, running count
-- [ ] Sliding Window
+- [x] Sliding Window
 - [ ] HashMap / unordered_map in C++
 - [ ] Recursion tree
 - [ ] Memoization
