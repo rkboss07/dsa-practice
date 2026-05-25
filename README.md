@@ -7,9 +7,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 14
-- **Easy:** 10 | **Medium:** 4 | **Hard:** 0
-- **Current Streak:** 4 days
+- **Total Solved:** 17
+- **Easy:** 12 | **Medium:** 5 | **Hard:** 0
+- **Current Streak:** 5 days
 - **Target:** 150 problems by Month 6
 
 ---
@@ -21,6 +21,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 2 | 22 May 2026 | 26, 121, 238, 167 | Arrays, Two Pointer |
 | Day 3 | 23 May 2026 | 344, 125, 424 | Strings, Sliding Window |
 | Day 4 | 24 May 2026 | 242, 1, 3 | Hashmap, Sliding Window |
+| Day 5 | 25 May 2026 | 20, 155, 232| Stack |
 
 ---
 
@@ -73,6 +74,11 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [ ] Climbing Stairs — 70
 - [ ] House Robber — 198
 - [ ] Longest Common Subsequence — 1143
+
+### Stack
+- [x] Valid Parentheses — 20
+- [x] Min Stack — 155
+- [x] Implement Queue Using Stacks — 232
 
 ---
 
