@@ -21,7 +21,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 2 | 22 May 2026 | 26, 121, 238, 167 | Arrays, Two Pointer |
 | Day 3 | 23 May 2026 | 344, 125, 424 | Strings, Sliding Window |
 | Day 4 | 24 May 2026 | 242, 1, 3 | Hashmap, Sliding Window |
-| Day 5 | 25 May 2026 | 20, 155, 232| Stack |
+| Day 5 | 25 May 2026 | 20, 155, 232 | Stack |
+| Day 6 | 27 May 2026 | 21, 141, 206 |Linked Lists |
 
 ---
 
@@ -80,6 +81,10 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Min Stack — 155
 - [x] Implement Queue Using Stacks — 232
 
+### Linked Lists
+- [x] Merge Two sorted Lists - 21
+- [x] Reverse Linked List - 206
+- [x] Linked List Cycle - 141
 ---
 
 ## Concepts Learned
@@ -91,7 +96,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] HashMap / unordered_map in C++
 - [ ] Recursion tree
 - [ ] Memoization
-
+- [x] Linked Lists
 ---
 
 ---
