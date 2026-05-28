@@ -7,8 +7,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 17
-- **Easy:** 12 | **Medium:** 5 | **Hard:** 0
+- **Total Solved:** 20
+- **Easy:** 15 | **Medium:** 5 | **Hard:** 0
 - **Current Streak:** 5 days
 - **Target:** 150 problems by Month 6
 
