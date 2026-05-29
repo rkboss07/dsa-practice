@@ -7,8 +7,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 20
-- **Easy:** 15 | **Medium:** 5 | **Hard:** 0
+- **Total Solved:** 23
+- **Easy:** 18 | **Medium:** 5 | **Hard:** 0
 - **Current Streak:** 5 days
 - **Target:** 150 problems by Month 6
 
@@ -23,6 +23,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 4 | 24 May 2026 | 242, 1, 3 | Hashmap, Sliding Window |
 | Day 5 | 25 May 2026 | 20, 155, 232 | Stack |
 | Day 6 | 27 May 2026 | 21, 141, 206 |Linked Lists |
+| Day 7 | 28 May 2026 |  | Review |
+| Day 8 | 29 May 2026 | 704,35,374 | Binary Search |
 
 ---
 
@@ -85,6 +87,11 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Merge Two sorted Lists - 21
 - [x] Reverse Linked List - 206
 - [x] Linked List Cycle - 141
+
+### Binary Search
+-[x] Binary Seach - 704
+-[x] Search Insert Position - 35
+-[x] Guess Number Higher or Lower - 374
 ---
 
 ## Concepts Learned
