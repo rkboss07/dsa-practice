@@ -25,6 +25,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 6 | 27 May 2026 | 21, 141, 206 |Linked Lists |
 | Day 7 | 28 May 2026 |  | Review |
 | Day 8 | 29 May 2026 | 704,35,374 | Binary Search |
+| Day 9 | 30 May 2026 | 509, 206, 344 | Recursion |
 
 ---
 
@@ -67,8 +68,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [ ] Group Anagrams — 49
 
 ### Recursion
-- [ ] Core concept
-- [ ] Fibonacci
+- [x] Core concept
+- [x] Fibonacci
 - [ ] Subsets — 78
 - [ ] Permutations — 46
 
