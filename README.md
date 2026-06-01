@@ -7,9 +7,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 26
-- **Easy:** 20 | **Medium:** 6 | **Hard:** 0
-- **Current Streak:** 10 days
+- **Total Solved:** 29
+- **Easy:** 21 | **Medium:** 8 | **Hard:** 0
+- **Current Streak:** 11 days
 - **Target:** 150 problems by Month 6
 
 ---
@@ -27,6 +27,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 8 | 29 May 2026 | 704,35,374 | Binary Search |
 | Day 9 | 30 May 2026 | 509, 206, 344 | Recursion |
 | Day 10 | 31 May 2026 | 104, 226, 102 | Binary Tree |
+| Day 11 | 1 June 2026 | 700, 701, 235 | Binary Search Tree |
 
 ---
 
@@ -63,7 +64,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Longest Substring Without Repeating Characters — 3
 
 ### HashMap
-- [ ] Core concept
+- [x] Core concept
 - [x] Two Sum — 1
 - [x] Valid Anagram — 242
 - [ ] Group Anagrams — 49
@@ -95,6 +96,19 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 -[x] Search Insert Position - 35
 -[x] Guess Number Higher or Lower - 374
 ---
+### Binary Search Tree
+- [x] Search in BST — 700
+- [x] Insert into BST — 701
+- [x] Lowest Common Ancestor — 235
+- [ ] Validate BST — 98
+- [ ] Kth Smallest in BST — 230
+
+### Binary Trees
+- [x] Maximum Depth — 104
+- [x] Invert Binary Tree — 226
+- [x] Level Order Traversal — 102
+- [ ] Diameter of Binary Tree — 543
+- [ ] Balanced Binary Tree — 110
 
 ## Concepts Learned
 - [x] Vectors in C++ — declaration, push_back, size(), indexing
@@ -103,9 +117,13 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Single pass tracking — min, max, running count
 - [x] Sliding Window
 - [x] HashMap / unordered_map in C++
-- [ ] Recursion tree
-- [ ] Memoization
 - [x] Linked Lists
+- [x] Recursion tree
+- [x] Queue in C++ — BFS traversal
+- [x] Binary Search Tree properties
+- [ ] Memoization
+- [ ] Dynamic Programming
+
 ---
 
 ---
