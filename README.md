@@ -94,9 +94,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Linked List Cycle - 141
 
 ### Binary Search
--[x] Binary Seach - 704
--[x] Search Insert Position - 35
--[x] Guess Number Higher or Lower - 374
+- [x] Binary Seach - 704
+- [x] Search Insert Position - 35
+- [x] Guess Number Higher or Lower - 374
 ---
 ### Binary Search Tree
 - [x] Search in BST — 700
