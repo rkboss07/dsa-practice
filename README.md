@@ -7,9 +7,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 29
-- **Easy:** 21 | **Medium:** 8 | **Hard:** 0
-- **Current Streak:** 11 days
+- **Total Solved:** 32
+- **Easy:** 23 | **Medium:** 9 | **Hard:** 0
+- **Current Streak:** 12 days
 - **Target:** 150 problems by Month 6
 
 ---
@@ -28,6 +28,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 9 | 30 May 2026 | 509, 206, 344 | Recursion |
 | Day 10 | 31 May 2026 | 104, 226, 102 | Binary Tree |
 | Day 11 | 1 June 2026 | 700, 701, 235 | Binary Search Tree |
+| Day 12 | 2 June 2026 | 70, 198, 746 | Dynamic Programming |
 
 ---
 
@@ -76,9 +77,10 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [ ] Permutations — 46
 
 ### Dynamic Programming
-- [ ] Core concept
-- [ ] Climbing Stairs — 70
-- [ ] House Robber — 198
+- [x] Core concept
+- [x] Climbing Stairs — 70
+- [x] House Robber — 198
+- [x] Min Cost Climbing Stairs — 746
 - [ ] Longest Common Subsequence — 1143
 
 ### Stack
@@ -121,8 +123,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Recursion tree
 - [x] Queue in C++ — BFS traversal
 - [x] Binary Search Tree properties
-- [ ] Memoization
-- [ ] Dynamic Programming
+- [x] Memoization
+- [x] Dynamic Programming
 
 ---
 
