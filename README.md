@@ -7,8 +7,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 34
-- **Easy:** 24 | **Medium:** 10 | **Hard:** 0
+- **Total Solved:** 35
+- **Easy:** 24 | **Medium:** 11 | **Hard:** 0
 - **Current Streak:** 12 days
 - **Target:** 150 problems by Month 6
 
@@ -29,7 +29,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 10 | 31 May 2026 | 104, 226, 102 | Binary Tree |
 | Day 11 | 1 June 2026 | 700, 701, 235 | Binary Search Tree |
 | Day 12 | 2 June 2026 | 70, 198, 746 | Dynamic Programming |
-| Day 13 | 3 June 2026 | 542, 733 | Graphs |
+| Day 13 | 3 June 2026 | 542, 733, 200 | Graphs |
 
 ---
 
@@ -113,6 +113,10 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [ ] Diameter of Binary Tree — 543
 - [ ] Balanced Binary Tree — 110
 
+### Graphs
+- [x] Matrix - 542
+- [x] Number of Islands - 200
+- [x] Flood Fill - 733
 ## Concepts Learned
 - [x] Vectors in C++ — declaration, push_back, size(), indexing
 - [x] Two Pointer — Flavour 1 (same direction) and Flavour 2 (opposite ends)
