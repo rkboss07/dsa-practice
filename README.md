@@ -29,6 +29,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 10 | 31 May 2026 | 104, 226, 102 | Binary Tree |
 | Day 11 | 1 June 2026 | 700, 701, 235 | Binary Search Tree |
 | Day 12 | 2 June 2026 | 70, 198, 746 | Dynamic Programming |
+| Day 13 | 3 June 2026 | 542, 733 | Graphs |
 
 ---
 
