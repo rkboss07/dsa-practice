@@ -1,14 +1,13 @@
 # DSA Practice — C++
 
-> Goal: Internship by 6th Semester | Started: May 2026
 
 Solving DSA problems daily in C++. Every problem, every day, tracked here.
 
 ---
 
 ## Overall Progress
-- **Total Solved:** 35
-- **Easy:** 24 | **Medium:** 11 | **Hard:** 0
+- **Total Solved:** 37
+- **Easy:** 24 | **Medium:** 13 | **Hard:** 0 
 - **Current Streak:** 12 days
 - **Target:** 150 problems by Month 6
 
@@ -30,6 +29,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 11 | 1 June 2026 | 700, 701, 235 | Binary Search Tree |
 | Day 12 | 2 June 2026 | 70, 198, 746 | Dynamic Programming |
 | Day 13 | 3 June 2026 | 542, 733, 200 | Graphs |
+| Day 14 | 4 June 2026 | 338, 53, 62 | Mixed Problems |
+| Day 15 | 5 June 2026 | 300, 5 | Dynamic Programming, Expand Around Center |
 
 ---
 
@@ -46,7 +47,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Best Time to Buy and Sell Stock — 121
 - [x] Product of Array Except Self — 238
 - [ ] Container With Most Water — 11
-- [ ] Maximum Subarray — 53
+- [x] Maximum Subarray — 53
 
 ### Two Pointer
 - [x] Core concept — Flavour 1 and Flavour 2
@@ -83,6 +84,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] House Robber — 198
 - [x] Min Cost Climbing Stairs — 746
 - [ ] Longest Common Subsequence — 1143
+- [x] Maximum Subarray - 53
+- [x] Unique Paths - 62
+- [x] Counting Bits - 338
 
 ### Stack
 - [x] Valid Parentheses — 20
@@ -98,7 +102,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Binary Seach - 704
 - [x] Search Insert Position - 35
 - [x] Guess Number Higher or Lower - 374
----
+
 ### Binary Search Tree
 - [x] Search in BST — 700
 - [x] Insert into BST — 701
@@ -133,7 +137,6 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 
 ---
 
----
 
 ## Leetcode Profile
 [rohitsinghxiv](https://leetcode.com/u/rohitsinghxiv/)
