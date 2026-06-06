@@ -6,8 +6,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 37
-- **Easy:** 24 | **Medium:** 13 | **Hard:** 0 
+- **Total Solved:** 41
+- **Easy:** 25 | **Medium:** 15 | **Hard:** 1 
 - **Current Streak:** 12 days
 - **Target:** 150 problems by Month 6
 
@@ -31,6 +31,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 13 | 3 June 2026 | 542, 733, 200 | Graphs |
 | Day 14 | 4 June 2026 | 338, 53, 62 | Mixed Problems |
 | Day 15 | 5 June 2026 | 300, 5 | Dynamic Programming, Expand Around Center |
+| Day 16 | 6 June 2026 | 42, 11, 15, 977 | Two Pointers |
+
 
 ---
 
