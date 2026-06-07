@@ -32,6 +32,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 14 | 4 June 2026 | 338, 53, 62 | Mixed Problems |
 | Day 15 | 5 June 2026 | 300, 5 | Dynamic Programming, Expand Around Center |
 | Day 16 | 6 June 2026 | 42, 11, 15, 977 | Two Pointers |
+| Day 17 | 7 June 2026 | 27 | Two Pointer |
 
 
 ---
