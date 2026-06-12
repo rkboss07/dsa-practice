@@ -6,8 +6,8 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 56
-- **Easy:** 28 | **Medium:** 26 | **Hard:** 2 
+- **Total Solved:** 59
+- **Easy:** 29 | **Medium:** 27 | **Hard:** 3 
 - **Current Streak:** 20 days
 - **Target:** 150 problems by Month 6
 
@@ -37,6 +37,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 19 | 9 June 2026 | 76, 1004,1838 | Slinding Window |
 | Day 20 | 10 June 2026 | 49, 128, 347 | Hashmap |
 | Day 21 | 11 June 2026 | 150, 739, 20, 155| Stacks |
+| Day 22 | 12 June 2026 | 71, 32, 2073 | Stacks |
 
 
 ---
