@@ -39,6 +39,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 21 | 11 June 2026 | 150, 739, 20, 155| Stacks |
 | Day 22 | 12 June 2026 | 71, 32, 2073 | Stacks |
 | Day 23 | 13 June 2026 | 225, 1700, 1823 | Queues |
+| Day 24 | 14 June 2026 | 33, 153, 74 | Binary Search |
 
 
 ---
