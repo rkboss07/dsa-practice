@@ -43,6 +43,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 25 | 15 June 2026 | 206, 143, 19 | Linked Lists |
 | Day 26 | 16 June 2026 | 2, 287, 21, 141 | Linked Lists |
 | Day 27 | 17 June 2026 | 981, 875 | Binary Search |
+| Day 28 | 18 June 2026 | 138 | Linked Lists |
 
 
 ---
