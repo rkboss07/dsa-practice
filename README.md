@@ -6,9 +6,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 72
-- **Easy:** 32 | **Medium:** 37 | **Hard:** 3 
-- **Current Streak:** 27 days
+- **Total Solved:** 75
+- **Easy:** 34 | **Medium:** 38 | **Hard:** 3 
+- **Current Streak:** 29 days
 - **Target:** 150 problems by Month 6
 
 ---
@@ -44,6 +44,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 26 | 16 June 2026 | 2, 287, 21, 141 | Linked Lists |
 | Day 27 | 17 June 2026 | 981, 875 | Binary Search |
 | Day 28 | 18 June 2026 | 138 | Linked Lists |
+| Day 29 | 19 June 2026 | 543, 110, 104, 226 | Binary Tree |
 
 
 ---
