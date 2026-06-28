@@ -6,9 +6,9 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 ---
 
 ## Overall Progress
-- **Total Solved:** 75
-- **Easy:** 34 | **Medium:** 38 | **Hard:** 3 
-- **Current Streak:** 29 days
+- **Total Solved:** 86
+- **Easy:** 37 | **Medium:** 44 | **Hard:** 5
+- **Current Streak:** 32 days
 - **Target:** 150 problems by Month 6
 
 ---
@@ -45,6 +45,17 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 27 | 17 June 2026 | 981, 875 | Binary Search |
 | Day 28 | 18 June 2026 | 138 | Linked Lists |
 | Day 29 | 19 June 2026 | 543, 110, 104, 226 | Binary Tree |
+| Day 30 | 20 June 2026 | 443 | Strings |
+| Day 31 | 21 June 2026 | 100 | Binary Tree |
+| Day 32 | 22 June 2026 | 572, 192, 235, 102 | Binary Tree |
+| Day 33 | 23 June 2026 | 1448 | Binary Tree |
+| Day 34 | 24 June 2026 | 98, 230 | Binary Tree |
+| Day 35 | 25 June 2026 | 105 | Binary Tree |
+| Day 36 | 26 June 2026 | 124 | Binary Tree |
+| Day 37 | 27 June 2026 | 1046 | Heap |
+| Day 38 | 28 June 2026 | 297 | Binary Tree |
+
+
 
 
 ---
@@ -61,7 +72,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Remove Duplicates from Sorted Array — 26
 - [x] Best Time to Buy and Sell Stock — 121
 - [x] Product of Array Except Self — 238
-- [ ] Container With Most Water — 11
+- [x] Container With Most Water — 11
 - [x] Maximum Subarray — 53
 
 ### Two Pointer
@@ -74,7 +85,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Reverse String — 344
 - [x] Valid Palindrome — 125
 - [x] Longest Repeating Character Replacement — 424
-- [ ] Minimum Window Substring — 76
+- [x] Minimum Window Substring — 76
 
 ### Sliding Window
 - [x] Core concept
@@ -129,13 +140,14 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 - [x] Maximum Depth — 104
 - [x] Invert Binary Tree — 226
 - [x] Level Order Traversal — 102
-- [ ] Diameter of Binary Tree — 543
-- [ ] Balanced Binary Tree — 110
+- [x] Diameter of Binary Tree — 543
+- [x] Balanced Binary Tree — 110
 
 ### Graphs
 - [x] Matrix - 542
 - [x] Number of Islands - 200
 - [x] Flood Fill - 733
+
 ## Concepts Learned
 - [x] Vectors in C++ — declaration, push_back, size(), indexing
 - [x] Two Pointer — Flavour 1 (same direction) and Flavour 2 (opposite ends)
