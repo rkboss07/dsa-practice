@@ -47,7 +47,7 @@ Solving DSA problems daily in C++. Every problem, every day, tracked here.
 | Day 29 | 19 June 2026 | 543, 110, 104, 226 | Binary Tree |
 | Day 30 | 20 June 2026 | 443 | Strings |
 | Day 31 | 21 June 2026 | 100 | Binary Tree |
-| Day 32 | 22 June 2026 | 572, 192, 235, 102 | Binary Tree |
+| Day 32 | 22 June 2026 | 572, 199, 235, 102 | Binary Tree |
 | Day 33 | 23 June 2026 | 1448 | Binary Tree |
 | Day 34 | 24 June 2026 | 98, 230 | Binary Tree |
 | Day 35 | 25 June 2026 | 105 | Binary Tree |
